@@ -1,3 +1,3 @@
 # blog
 
-Criação de um blog
+blog creation containing several templates
