@@ -1,3 +1,3 @@
 # blog
 
-blog creation containing several templates
+blog creation containing simple templates
