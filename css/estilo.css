@@ -7,7 +7,7 @@
 body{
 	font-size:16px;
 	font-family: ;
-	background: #f3f3f3;
+	background: #d8d8d8;
 }
 
 h2{
@@ -97,4 +97,25 @@ a:active{
 	padding: 5px;
 	display: block;
 	margin-top: 10px;
+}
+
+.alerta{
+	padding: 20px;
+	background-color: #f44336;
+	color: white;
+	margin-bottom: 15px;
+
+.botao.fechar{
+	margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.botao-fechar:hover {
+	color: black;
 }
